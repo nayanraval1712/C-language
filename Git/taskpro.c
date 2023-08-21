@@ -12,4 +12,6 @@ int main() {
      else {
     printf ("\nnumber is not equal to odd ");
 }
+
+  
 }
