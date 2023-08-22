@@ -7,6 +7,6 @@ void main ()
     printf("%d",number);
 
     Answer=number + 1 ;
-    printf("%d",Answer);
+    printf("\n%d",Answer);
 }
     
